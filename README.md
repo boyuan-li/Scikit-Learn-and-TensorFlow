@@ -29,3 +29,5 @@ Concepts, tools, and techniques to build intelligent systems
 First review: 2018-12-20
 
 Second review: 2019-11-28
+
+Second review: 2020-05-26
