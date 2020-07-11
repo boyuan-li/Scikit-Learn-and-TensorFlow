@@ -1,9 +1,8 @@
-# Scikit-Learn-and-TensorFlow
-
-Hands on Machine Learning with Scikit-Learn, Keras & TensorFlow, 2nd Edition
+# Hands on Machine Learning with Scikit-Learn, Keras & TensorFlow, 2nd Edition
 
 Concepts, tools, and techniques to build intelligent systems
 
+Aurélien Géron
 
 1. The machine learning landscape 
 2. End-to-end machine learning project 
